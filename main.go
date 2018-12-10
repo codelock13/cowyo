@@ -80,7 +80,7 @@ func main() {
 		},
 		cli.StringFlag{
 			Name:  "port,p",
-			Value: "8050",
+			Value: "80",
 			Usage: "port to use",
 		},
 		cli.StringFlag{
